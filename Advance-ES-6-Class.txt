@@ -1,0 +1,58 @@
+Recap:
+======
+1. let & const
+2. Template string (``)
+3. Default parameter to function
+4. Array spread operator (...)
+5. Arrow function()
+
+Destructuring Object:
+----------------------
+It helps to geting any property inside a variable in a short way. to see details just check de-structuring-object.js file.
+
+Destructuring Array[]
+---------------------
+Maintain serial
+
+Chaining & optional chaining?:
+-----------------------------
+Helps to read value and handle error
+
+Map()
+--------
+map() methid is work like for of loop
+1. loop through each element
+2. for each element call the provided function
+3. result for each relement stored in an Array
+
+forEach()
+---------------
+foreach is also work like map but the difference id map return the array but foreach will not return the array
+
+filter()
+---------
+filter() is also works like map but the Diffrence between map() and filter() is map return all elements from the array but filter check a condition if the condition true the the elements return.
+
+find()
+-------
+return the elements directly and the first element only but filter return the elements as array which elements meets the condition
+
+class
+-----
+1. start with class keyword
+2. give a name and start with cpital letter
+3. have a constructor function  to add dynamic parameter
+4. call the class using new keywork
+
+inheritance
+------------
+1. extends
+2. super
+3. function inside class (no need to write function keywork just write function name and function details)
+To know details just check inheritance.js file.
+
+prototypical inheritance
+------------------------
+1. __proto__
+
+2. 
